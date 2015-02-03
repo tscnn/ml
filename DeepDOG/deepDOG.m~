@@ -1,0 +1,14 @@
+function [ imgmax, img ] = deepDOG( img, mode )
+
+L = 10;
+
+for layer = 1:L
+    
+    if strcmp(mode,'max')
+        img = max(dog(img),0);
+    else
+        img = (dog(img)).^2;
+    end
+    
+end
+
