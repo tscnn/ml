@@ -1,17 +1,10 @@
-function [ dimg ] = dog( img, k, sigma1, hsize )
+function [ dimg ] = dog( img, sigma1, k, hsize )
+% Differences of gaussians
+% img is input image
+% sigma1 is standard deviation of Gauss filter
+% k is standard deviation rate between the Gauss filters
+% hsize is the size of the Gauss filter
 % based on http://stackoverflow.com/questions/20057146/is-there-any-difference-of-gaussians-function-in-matlab
-
-if nargin < 4
-    hsize = [3 3];
-end
-
-if nargin < 3
-    sigma1 = 0.5;
-end
-
-if nargin < 2
-    k = 10;
-end
 
 sigma2 = sigma1 * k;
 
