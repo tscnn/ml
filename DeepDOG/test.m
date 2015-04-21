@@ -1,4 +1,3 @@
-clear all;
 
 %load expample image 1
 image1 = double(rgb2gray(imread('image1.png')));
