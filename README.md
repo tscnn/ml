@@ -8,4 +8,4 @@ This repository contais some very easy matlab implementations of basic machine l
 
 ## SVM
 
-![asdf](tscnn.github.com/ml/SVM/screenshot.png)
+![asdf](https://github.com/tscnn/ml/blob/master/SVM/screenshot.png?raw=true)
