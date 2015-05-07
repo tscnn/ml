@@ -19,3 +19,6 @@ A simple deep network structure based on differences of gaussians.
 Support Vector Machine implemented by use of quadratic programming.
 
 ![svm](https://github.com/tscnn/ml/blob/master/SVM/screenshot.png?raw=true)
+
+
+*All data examples are taken from Machine Learning lecture by E. Barth and Jens Hocke*
