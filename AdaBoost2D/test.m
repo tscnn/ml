@@ -1,4 +1,3 @@
-clear all;
 load('data.mat');
 
 T = 500;
