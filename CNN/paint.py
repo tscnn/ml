@@ -16,7 +16,7 @@ y1=None
 img = Image.new("L", (canvas_width, canvas_height), (0))
 img_draw = ImageDraw.Draw(img)
 
-brain = cnn.brain("good.hdf5")
+brain = cnn.brain("9943.hdf5")
 
 def point(event):
     global x1
