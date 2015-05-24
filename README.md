@@ -8,6 +8,12 @@ Constructs a complex classifier based on many weak classifiers.
 
 ![deepdog](https://github.com/tscnn/ml/blob/master/AdaBoost/screenshot.png?raw=true)
 
+## CNN
+
+Convolutional Neural Network structure implemented in Python under usage of [keras](https://github.com/fchollet/keras).
+
+![cnn](https://github.com/tscnn/ml/blob/master/CNN/screenshot.png?raw=true)
+
 ## DeepDOG
 
 A simple deep network structure based on differences of gaussians.
