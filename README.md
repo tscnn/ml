@@ -10,7 +10,7 @@ Constructs a complex classifier based on many weak classifiers.
 
 ## CNN
 
-Convolutional Neural Network structure implemented in Python under usage of [keras](https://github.com/fchollet/keras).
+Convolutional Neural Network structure that recognizes handwritten digits implemented in Python under usage of [keras](https://github.com/fchollet/keras) and the MNIST dataset. 
 
 ![cnn](https://github.com/tscnn/ml/blob/master/CNN/screenshot.png?raw=true)
 
@@ -27,4 +27,4 @@ Support Vector Machine implemented by use of quadratic programming.
 ![svm](https://github.com/tscnn/ml/blob/master/SVM/screenshot.png?raw=true)
 
 
-*All data examples are taken from Machine Learning lecture by E. Barth and Jens Hocke*
+*Some data examples are taken from Machine Learning lecture by E. Barth and Jens Hocke*
